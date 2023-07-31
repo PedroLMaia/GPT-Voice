@@ -28,7 +28,7 @@ Diga "Jarvis" para acionar o assistente de IA e ouça o prompt, "Como posso ajud
 Faça suas perguntas ou forneça comandos, e o Jarvis responderá adequadamente.
 
 
-## Como Usar o Jarvis
+## Uso Geral
 Transcrição de Voz para Texto: O Jarvis pode converter sua voz em texto para uma interação mais fácil.
 
 Respostas Rápidas: Obtenha respostas instantâneas para suas perguntas e comandos, tornando suas interações mais fluidas.
