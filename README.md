@@ -41,7 +41,3 @@ HTML, CSS e JavaScript para a interface do FrontEnd.
 Node.js e Express.js para o servidor Backend.
 
 API da OpenAI para processamento de linguagem natural e respostas.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
