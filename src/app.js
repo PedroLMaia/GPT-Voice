@@ -68,7 +68,7 @@ function sendTranscriptionToServer(transcription) {
     return;
   }
 
-  fetch('http://localhost:3000/processar', {
+  fetch('https://gpt-voice.vercel.app/processar', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
